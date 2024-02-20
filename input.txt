@@ -1,0 +1,12 @@
+int a = 10;
+int b = 10;
+
+if (a === b)
+{
+  print("HELLO WORLD");
+}
+
+int c = a + b;
+int d = a - b;
+int e = a * b;
+int f = a / b;
